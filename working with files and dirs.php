@@ -47,7 +47,12 @@
 // print_r($lines);
 
 #                    <<-- COMMON FILE TASKS -->>
-
+//remove file
+//unlink('file.txt');
+//copy file
+//copy('foo.txt', 'bar.txt');
+//move file
+//rename('foo.txt', 'bar.txt');
 //Get filesize
 // echo filesize('file.txt'); // get filesize in bytes
 
