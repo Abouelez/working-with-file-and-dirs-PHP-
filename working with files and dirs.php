@@ -1,3 +1,4 @@
+//https://www.php.net/manual/en/ref.filesystem.php
 <?php
 #                    <<-- FILE OPEN MODES -->>
 
